@@ -5,7 +5,7 @@
 
 <br/>
 
-🌐 I am a big proponent for the Open-Source community, and contributed with [NEO](https://github.com/oslabs-beta/Neo) a vsCode extension that brings Next.js developers technical SEO metrics in their IDE window.
+🌐 I am a big proponent for the Open-Source community, and contributed with [NEO](https://next-metrics.vercel.app) a vsCode extension that brings Next.js developers technical SEO metrics in their IDE window.
 
 <br/>
 
